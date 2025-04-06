@@ -1,5 +1,7 @@
 # glmatrix
 
+Matrix v1.14
+
 ## Development
 
 ```sh
